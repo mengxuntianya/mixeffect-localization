@@ -1,8 +1,8 @@
-"%lld days-remaining" = "%lld Days Remaining in Trial";
+"%lld days-remaining" = "试用剩余%lld天 ";
 
-"0.5-seconds" = "0.5 seconds";
+"0.5-seconds" = "0.5 秒";
 
-"1.0-seconds" = "1.0 seconds";
+"1.0-seconds" = "1.0 秒";
 
 "1.33:1" = "Super 35 (1.33:1)";
 
@@ -10,7 +10,7 @@
 
 "1.43:1" = "IMAX (1.43:1)";
 
-"1.5-seconds" = "1.5 seconds";
+"1.5-seconds" = "1.5 秒";
 
 "1.66:1" = "VistaVision (1.66:1)";
 
@@ -56,69 +56,69 @@
 
 "a" = "A";
 
-"about" = "About MixEffect";
+"about" = "关于MixEffect";
 
-"accent-color" = "Accent Color";
+"accent-color" = "强调色";
 
-"action" = "Action";
+"action" = "动作";
 
-"add" = "Add";
+"add" = "新增";
 
-"add-default-presets" = "Add Default Presets";
+"add-default-presets" = "新增默认预设";
 
-"add-favorite" = "Add Favorite";
+"add-favorite" = "加入收藏";
 
-"add-panel" = "Add Panel";
+"add-panel" = "新增面板";
 
-"add-panel-to %@" = "Add Panel to %@";
+"add-panel-to %@" = "新增面板至 %@";
 
-"add-tags" = "Add Tags";
+"add-tags" = "新增标签";
 
-"add-to-siri" = "Add to Siri";
+"add-to-siri" = "新增至 Siri";
 
-"advanced" = "Advanced";
+"advanced" = "高级";
 
 "aesbu" = "AES/EBU";
 
 "af-on" = "AF ON";
 
-"after-running-action" = "After Running Action";
+"after-running-action" = "动作触发后";
 
 "afv" = "AFV";
 
-"all" = "All";
+"all" = "全部";
 
-"all-off" = "All Off";
+"all-off" = "全部关闭";
 
-"all-on" = "All On";
+"all-on" = "全部开启";
 
-"allow-trigger-when-source-off-air" = "Allow Trigger When Source is Off Air";
+"allow-trigger-when-source-off-air" = "停播时允许触发";
 
-"analog-audio-inputs" = "Analog Inputs";
+"analog-audio-inputs" = "模拟输入";
 
-"animate-supersource" = "Animate SuperSource Layout Transitions";
+"animate-supersource" = "切换SuperSource时带有动画过渡效果";
 
-"animate-supersource-short" = "Animate When Changing Layouts";
+"animate-supersource-short" = "切换SuperSource时带有动画过渡效果";
 
-"animation" = "Animation";
+"animation" = "动画";
 
-"animation-speed" = "Speed";
+"animation-speed" = "速度";
 
-"aperture" = "Aperture";
+"aperture" = "光圈";
 
-"app-icon" = "App Icon";
+"app-icon" = "应用图标";
 
 "app-name" = "MixEffect";
 
-"app-name-pro" = "MixEffect Pro";
+"app-name-pro" = "MixEffect 专业版";
 
-"app-name-trial" = "MixEffect Trial";
+"app-name-trial" = "MixEffect 试用版";
 
-"appearance" = "Appearance";
+"appearance" = "外观";
 
-"are-greater-than" = "Are Greater Than";
+"are-greater-than" = "大于";
 
-"are-less-than" = "Are Less Than";
+"are-less-than" = "小于";
 
 "art" = "Art";
 
