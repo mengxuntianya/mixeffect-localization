@@ -2,43 +2,43 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>%lld hold</key>
+	<key>%lld 保持</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@hold@</string>
-		<key>hold</key>
+		<string>%#@保持@</string>
+		<key>保持</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lld</string>
 			<key>one</key>
-			<string>Hold for %lld sec</string>
+			<string>按下 %lld 秒</string>
 			<key>other</key>
-			<string>Hold for %lld secs</string>
+			<string>按下 %lld 秒</string>
 		</dict>
 	</dict>
-	<key>%lld frames-delay</key>
+	<key>%lld 帧延迟</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
 		<string>%#@framesDelay@</string>
-		<key>framesDelay</key>
+		<key>帧延迟</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lld</string>
 			<key>one</key>
-			<string>%lld Frame Delay</string>
+			<string>%lld 帧延迟</string>
 			<key>other</key>
-			<string>%lld Frames Delay</string>
+			<string>%lld 帧延迟</string>
 		</dict>
 	</dict>
-	<key>%lld days</key>
+	<key>%lld天</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@day@</string>
-		<key>day</key>
+		<string>%#@天@</string>
+		<key>天</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
 			<string>NSStringPluralRuleType</string>
@@ -50,68 +50,68 @@
 			<string>%lld days</string>
 		</dict>
 	</dict>
-	<key>%lld hours</key>
+	<key>%lld 小时</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@hour@</string>
-		<key>hour</key>
+		<string>%#@小时@</string>
+		<key>小时</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lld</string>
 			<key>one</key>
-			<string>%lld hr</string>
-			<key>other</key>
-			<string>%lld hrs</string>
+			<string>%lld 小时</string>
+			<key>其他</key>
+			<string>%lld 小时</string>
 		</dict>
 	</dict>
-	<key>%lld minutes</key>
+	<key>%lld 分钟</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@minute@</string>
-		<key>minute</key>
+		<string>%#@分钟@</string>
+		<key>分钟</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lld</string>
 			<key>one</key>
-			<string>%lld min</string>
+			<string>%lld 分钟</string>
 			<key>other</key>
-			<string>%lld mins</string>
+			<string>%lld 分钟</string>
 		</dict>
 	</dict>
-	<key>%lld seconds</key>
+	<key>%lld 秒</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@second@</string>
-		<key>second</key>
+		<string>%#@秒@</string>
+		<key>秒</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lld</string>
 			<key>one</key>
-			<string>%lld sec</string>
+			<string>%lld 秒</string>
 			<key>other</key>
-			<string>%lld secs</string>
+			<string>%lld 秒</string>
 		</dict>
 	</dict>
-	<key>%lld frames</key>
+	<key>%lld 帧</key>
 	<dict>
 		<key>NSStringLocalizedFormatKey</key>
-		<string>%#@frame@</string>
-		<key>frame</key>
+		<string>%#@帧@</string>
+		<key>帧</key>
 		<dict>
 			<key>NSStringFormatSpecTypeKey</key>
 			<string>NSStringPluralRuleType</string>
 			<key>NSStringFormatValueTypeKey</key>
 			<string>lld</string>
 			<key>one</key>
-			<string>%lld frame</string>
+			<string>%lld 帧</string>
 			<key>other</key>
-			<string>%lld frames</string>
+			<string>%lld 帧</string>
 		</dict>
 	</dict>
 </dict>
